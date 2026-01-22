@@ -37,6 +37,13 @@ Inclui: autenticação, APIs, notificações, banco de dados, containers e boas 
 
  `LeafLife`
 
+### **C# Studies**
+
+This repository documents my C# learning journey.
+It includes small projects, ideas, and exercises.
+
+`csharp-studies`
+
 
 ## 🔹 Contato
 
