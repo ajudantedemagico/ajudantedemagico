@@ -9,9 +9,13 @@ Currently I work with prompt engineering and conversational AI systems, designin
 My technical background includes development with:
 
 • C# and backend development concepts
+
 • Python for automation and AI-related tasks
+
 • JavaScript and web technologies
+
 • Generative AI and conversational systems
+
 • APIs and automation workflows
 
 ---
