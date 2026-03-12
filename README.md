@@ -1,51 +1,56 @@
 # Jaqueline Gonçalves
 
-**Desenvolvedora em formação | Foco em C#/.NET | Transição para Tecnologia**
+**Software Engineer | C# / .NET | Backend | Generative AI | AI Automation**
 
-Sou estudante de Desenvolvimento de Software e estou construindo minha carreira com foco em C#/.NET e fundamentos sólidos de programação, APIs, banco de dados e arquitetura.
-Atuo em transição de carreira após mais de uma década trabalhando com marketing, processos, gestão e engenharia de prompt — experiências que hoje aplico na criação de soluções práticas, organizadas e com visão de produto.
+I’m a Software Engineer focused on backend development and AI-powered solutions, combining programming skills with automation and generative AI technologies.
 
-Meu objetivo é crescer como desenvolvedora back-end, consolidar meus estudos e contribuir com projetos que demandem lógica, estrutura, boas práticas e visão multidisciplinar.
+Currently I work with prompt engineering and conversational AI systems, designing and optimizing prompts for large language models and improving response quality and reliability.
 
----
+My technical background includes development with:
 
-## 🔹 Tecnologias e Competências
-
-**Linguagens:**
-C#, JavaScript, Python, HTML, CSS
-
-**Banco de Dados:**
-SQL (MySQL, SQL Server)
-NoSQL
-
-**Ferramentas:**
-Git, GitHub, Docker, VS Code, .NET
-
-**Conhecimentos adicionais:**
-Prompt Engineering, lógica de programação, processos e integração de sistemas
+• C# and backend development concepts
+• Python for automation and AI-related tasks
+• JavaScript and web technologies
+• Generative AI and conversational systems
+• APIs and automation workflows
 
 ---
 
-## 🔹 Projetos em Destaque
+## Technologies and interests:
 
-### **LeafLife (em desenvolvimento)**
+C# • .NET • Python • JavaScript
+Generative AI • Prompt Engineering
+Backend Development • Automation
+Git • APIs • Web Development
+
+---
+
+## My projects:
+
+### **LeafLife **
 
 Aplicativo completo para gestão de cuidados com plantas.
 Inclui: autenticação, APIs, notificações, banco de dados, containers e boas práticas de arquitetura.
 
 **Stack:** C#, .NET, SQL, Docker
 
- `LeafLife`
 
-### **C# Studies**
+ ### **SkillMatch **
 
-This repository documents my C# learning journey.
-It includes small projects, ideas, and exercises.
+Sistema integrado com IA para otimização de CVs para ATS.
+Inclui: autenticação, APIs, banco de dados, inteligência artifical
 
-`csharp-studies`
+Equipe: 
+Jaqueline
+Julya
+
+**Stack:** C#, .NET, SQL, Docker
+
+ `SkillMatch`
 
 
-## 🔹 Contato
+
+## Contato
 
 **LinkedIn:** [[https://linkedin.com/in/jaquelinegoncalves](https://www.linkedin.com/in/jcqlngnclvz/)
 **E-mail:** jqlngnclvz@gmail.com
